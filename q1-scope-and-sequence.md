@@ -1,54 +1,88 @@
-# 📅 Quarter 1 Scope & Sequence – Data Science
+# 🤖 Quarter 1 Scope & Sequence – Data Science with AI
 
-This 8-week plan outlines the major activities, pacing, and routines for Quarter 1.  
-Each unit is designed to fit within a 5-day week, with core tasks completed on Tues/Wed/Thurs (computer days).  
-Mondays are for offline mapping & journaling, Fridays are for assessments and AI literacy.
+This quarter focuses entirely on Artificial Intelligence.  
+Students will explore what AI is, how it works, how it thinks, and how to use it **responsibly** and **critically**.  
+All assignments are designed to fit into a 5-day week:
+- **Monday**: Offline mapping & journaling
+- **Tues–Thurs**: Core AI Lab work
+- **Friday**: Biweekly quizzes + Future Friday reading/discussion
 
 ---
 
-## 🧭 Weekly Rhythm
+## 🧭 Weekly Structure
 
-| Day       | Focus                                |
+| Day       | Focus                                  |
 |-----------|----------------------------------------|
-| Monday    | 📝 Tech-Free Planning & Mapping |
-| Tuesday   | 💻 Excel / AI Lab Activity (Part 1) |
-| Wednesday | 💻 Excel / AI Lab Activity (Part 2) |
-| Thursday  | 💻 AI-Enhanced or Group Practice |
-| Friday    | 🧠 Biweekly Quiz & “Future Friday” Article/Discussion |
+| Monday    | 📝 Tech-Free Planning & Mapping         |
+| Tuesday   | 💻 AI Lab Activity (Part 1)             |
+| Wednesday | 💻 AI Lab Activity (Part 2)             |
+| Thursday  | 💻 Partner Work or Enhanced AI Reflection |
+| Friday    | 🧠 Biweekly Quiz + “Future Friday” Reflection |
 
 ---
 
-## 📊 Weekly Activities Overview
+## 📚 Weekly Activities Overview
 
-| Week | Focus Title                          | Main Activity Format           |
-|------|--------------------------------------|--------------------------------|
-| 1    | **What Is AI?**                      | Mapping AI in daily life + guided research + reflection writing |
-| 2    | **Prompt Engineering Basics**        | Student tries different prompts on a small task; compares results |
-| 3    | **Intro to Microsoft Excel**         | Learn basic functions, formatting, and formulas |
-| 4    | **Excel Data Stories**               | Students use a dataset to build a chart and describe what it shows |
-| 5    | **AI vs Human: Who Did It Better?**  | Students compare their work with AI’s and evaluate reasoning |
-| 6    | **Claim Strength Evaluator (AI Tool)** | Write a claim → AI evaluates → student revises or critiques |
-| 7    | **Data Visualizations in Excel**     | Students clean and chart more complex data |
-| 8    | **Design a Prompt**                  | Students design, test, and explain their own research-style prompt |
-
----
-
-## 🧪 Assessments
-
-- **Biweekly Quizzes**: Cover content from past 2 weeks  
-- **Weekly Reflections**: In journals on Future Friday  
-- **Quarter 1 Project**: Will launch in Week 9 as part of Q2 (mock version of final)
+| Week | Focus Title                              | Main Activity Format |
+|------|------------------------------------------|-----------------------|
+| 1    | **What Is AI?**                          | Mapping AI in daily life + guided research + reflection writing |
+| 2    | **Prompt Engineering Basics**            | Experiment with different prompt structures + compare outputs |
+| 3    | **AI Strengths & Limitations**           | Analyze examples of where AI performs well or struggles |
+| 4    | **Agent vs Scientist AI Prompting**      | Compare styles: “Do this for me” vs “Help me think through this” |
+| 5    | **Bias in AI**                           | Explore prompt results across gender/race/age variations |
+| 6    | **AI and Misinformation**                | Test how AI handles rumors, loaded questions, or false claims |
+| 7    | **Prompt Engineering For A Project (Part 1)**             | Students design an original prompt based on a research interest |
+| 8    | **Prompt Engineering For A Project (Part 2)**             | Students refine, run, and reflect on results of their prompt |
 
 ---
 
-## 🔎 Notes for Teachers/Admins
+---
 
-- Each unit fits within ~150 minutes of computer time
-- All activities are designed to build toward the **Q2 Mock Data Science Final Project**
-- Lab activities are balanced between **Excel** and **AI** use
-- Offline journaling reinforces writing, reflection, and analog planning
+## 📘 Quarter 1 Final Project (Week 9)
+
+Students will:
+- Select a challenging article or excerpt from an academic or professional source
+- Use **Scientist AI prompting** (not “Do it for me” style)
+- Work with the AI to:
+  - Identify key ideas
+  - Rephrase complex ideas in accessible language
+  - Compare summaries, ask for analogies, or define technical terms
+- Submit a final Markdown file that includes:
+  - The original source (or excerpt)
+  - Their prompt(s)
+  - The AI’s response(s)
+  - Their own reflections: What worked? What was lost or gained in simplification?
+
+### 🔧 Assessment Focus:
+- Clarity and accuracy of simplified explanation  
+- Evidence of iterative, thoughtful prompting  
+- Final version shows understanding, not just copying  
+- Clear distinction between AI’s voice and student’s voice  
 
 ---
 
-> _“Time on computers is finite — think about what that means.”_
+## 🧪 Assessment & Reflection
+
+| Component             | Description |
+|----------------------|-------------|
+| **Biweekly Quizzes** | Based on concepts from previous 2 weeks (Weeks 2, 4, 6, 8) |
+| **Future Friday**    | Reading + written reflection on real-world AI topics |
+| **Weekly Journals**  | Monday planning + Friday reflections (Tech-free) |
+| **AI Lab Submissions** | Saved as Markdown files inside GitHub assignment repos |
+| **Quarter 2 Prep**   | Students will select their favorite prompt as a seed for a Q2 mock data project |
+
+---
+
+## 🧠 Skills Developed
+
+- Prompt clarity and iteration  
+- Reflection and critique of AI output  
+- Ethical awareness of AI use and bias  
+- Technical familiarity with offline AI tools (e.g., Ollama)
+- Responsible use of AI as a **thinking tool**, not a substitute for thinking
+
+---
+
+_This scope and sequence lives in:_  
+➡️ [github.com/NHH-Data-Sci/00-Data-Sci-onboarding](https://github.com/NHH-Data-Sci/00-Data-Sci-onboarding)
 
