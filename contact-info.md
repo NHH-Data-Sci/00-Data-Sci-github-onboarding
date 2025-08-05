@@ -6,7 +6,7 @@ _Update this markdown file with your personal information. Completion of this fo
 
 **1) Name:**  
 **2) School Email:**  
-**3) Phone Number:** _(Enter Google Voice)_  
+**3) Phone Number:** 
 **4) Preferred Name to be called by:**  
 **5) Name of at least one Parent/Guardian/Head of Household:**  
 **6) Phone number of Person from 5:**  
