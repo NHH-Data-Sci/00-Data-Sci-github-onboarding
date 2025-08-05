@@ -1,0 +1,44 @@
+# ✅ GitHub Onboarding Checklist
+
+Welcome! This short assignment will help you learn the basics of GitHub.
+
+Complete each of the tasks below. When you’re done, your teacher will be able to see your work directly in your repository.
+
+---
+
+## 🔓 Getting Started
+
+- [ ] Accept the GitHub Classroom assignment link
+- [ ] Open this project in **Codespaces**
+
+---
+
+## 🧾 Files to Create or Edit
+
+- [ ] Complete the `contact-info.md` file (with your name, email, etc.)
+- [ ] Edit the `README.md` file to include a short reflection:  
+  _“The ideal student is…”_
+- [ ] Create another file (Markdown or plain text) called:  
+  `my-ai-experience.md`  
+  Write a short reflection: What is your current experience with AI?
+
+---
+
+## 🌿 Optional Practice (Recommended!)
+
+- [ ] Create a **branch** (called `testing`)
+  - Make one small change (like edit a file or add a sentence)
+- [ ] Create an **issue** with the title:
+  > “No issue, just checking in.”
+
+---
+
+## ✅ Done?
+
+Make sure your changes are saved and committed. That’s all!
+
+We’ll use this repo to check that you’ve:
+- Signed in
+- Used Codespaces
+- Created files
+- Edited content
