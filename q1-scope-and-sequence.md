@@ -1,4 +1,4 @@
-# 🤖 Quarter 1 Scope & Sequence – Data Science with AI
+# Quarter 1 Scope & Sequence – Data Science with AI
 
 This quarter focuses entirely on Artificial Intelligence.  
 Students will explore what AI is, how it works, how it thinks, and how to use it **responsibly** and **critically**.  
