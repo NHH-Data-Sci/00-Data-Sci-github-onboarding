@@ -22,12 +22,26 @@
 - **No food** (_Can I ask an honest question?_)  
 - **Drinks must be in computer-lab-safe containers**  
 - **No use of computers unless instructed by the teacher**:
-  - Use only school desktops for Data Science
+  - Use only the Data Science Lab desktop PCs
   - No Chromebooks, no personal devices
 
 - **Work on what we’re working on**
 - **No unplugging anything or searching for outlets**
 
+---
+## 🪑 Seating Chart
+
+In this course, each student will be assigned a dedicated computer for all in-class work involving AI tools, spreadsheets, and project files.
+
+- You must choose a permanent seat by the end of the first week of class.
+
+- Your assigned device will be tied to your unique login and saved work.
+
+- Once the seating chart is finalized, you must remain in that seat for the rest of the semester.
+
+- Moving to a different computer may result in being unable to access your work or submit assignments.
+
+- This system ensures consistency, security, and fair access to your learning tools.
 ---
 
 ## 🧭 Weekly Schedule Overview
