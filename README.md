@@ -44,6 +44,30 @@ In this course, each student will be assigned a dedicated computer for all in-cl
 - This system ensures consistency, security, and fair access to your learning tools.
 ---
 
+## 💻 Process for Logging On, Completing Work, and Logging Off Lab Computers
+
+These steps must be followed every time you use your assigned desktop computer in the Data Science Lab.
+
+### 🟢 Logging On
+- Go directly to **your assigned computer**.
+- **Log in with your unique Windows username and password.**
+- **Use only your assigned machine.** Much of your work will be saved locally and cannot be accessed from other computers.
+
+### ✍️ While Working
+- Open only the **applications** you are instructed to use.
+- If using a browser, **GitHub can be accessed in-browser or installed as a desktop app**.
+- Save your files regularly and keep track of where they are stored.
+- Use your **Data Science Journal** to take notes or track your work.
+- If something goes wrong, **raise your hand** — do not attempt to fix hardware or settings yourself.
+
+### 🔴 Logging Off
+- Save and close all files and documents.
+- **Sign out of your account at the end of class.**
+- Clean up your area: no trash or supplies left out.
+- Push in your chair and prepare for transition or dismissal.
+
+---
+
 ## 🧭 Weekly Schedule Overview
 
 | Day       | Focus                                  |
