@@ -1,6 +1,6 @@
 # 2025-2026 NHH Data Science Syllabus
 
-# 📊 00_Data Science Syllabus
+# 📊 Data Science Syllabus
 
 **Teacher**: Mr. Sean Muggivan  
 **Email**: [sean.muggivan@newharmonyhigh.org](mailto:sean.muggivan@newharmonyhigh.org)  
