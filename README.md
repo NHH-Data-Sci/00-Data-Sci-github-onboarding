@@ -132,6 +132,6 @@ This course is about:
 ---
 
 _This syllabus will always be available at:_  
-➡️ [github.com/NHH-Data-Sci/00-Data-Sci-onboarding](https://github.com/NHH-Data-Sci/00-Data-Sci-onboarding)
+➡️ [Data Science Course Syllabus](https://github.com/NHH-Data-Sci/Data_Science_Syllabus_S-S/blob/main/README.md)
 
 
