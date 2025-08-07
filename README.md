@@ -19,7 +19,7 @@
   _See no evil, hear no evil, speak no evil._  
   (No earbuds, smartwatches, phones, etc.)
 
-- **No food** (_Can I ask an honest question?_)  
+- **No food**  
 - **Drinks must be in computer-lab-safe containers**  
 - **No use of computers unless instructed by the teacher**:
   - Use only the Data Science Lab desktop PCs
