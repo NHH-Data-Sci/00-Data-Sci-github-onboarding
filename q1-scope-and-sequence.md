@@ -25,7 +25,7 @@ All assignments are designed to fit into a 5-day week:
 
 | Repository | Week(s) | Focus Title                                 | Viewable Repo Link                                                          | GitHub Classroom Join Link                          |
 | ---------- | ------- | ------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------- |
-| `R00`      | 1       | **What Is AI?**                             | https://github.com/NHH-Data-Sci/Data_Science_Syllabus_S-S/blob/main/README.md | [Join R00](https://classroom.github.com/a/oBFJn3bs) |
+| `R00`      | 1       | **Data Science Course Launch**                             | [View R00](https://github.com/NHH-Data-Sci/R00_Data_Sci_Course_Launch) | [Join R00]                                             |
 | `R01`      | 2       | **Prompt Engineering Basics**               | *TBD*                                                                       | *TBD*                                               |
 | `R02`      | 3       | **AI Strengths & Limitations**              | *TBD*                                                                       | *TBD*                                               |
 | `R03`      | 4       | **Agent vs Scientist AI Prompting**         | *TBD*                                                                       | *TBD*                                               |
